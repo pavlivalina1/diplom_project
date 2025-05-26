@@ -23,3 +23,5 @@ node_modules/
 # Model files
 *.pth
 *.pt
+
+.idea/
