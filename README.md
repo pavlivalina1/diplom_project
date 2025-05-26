@@ -10,3 +10,7 @@
 - `backend/` — FastAPI сервер
 - `frontend/` — React Native застосунок
 - `model_training/` — Jupyter ноутбуки / PyTorch скрипти для навчання моделей
+
+## Датасети
+- Для класифікації стадій росту - https://www.kaggle.com/datasets/glaykarahanl/sunflower-development-stages/data
+- Для класифікації захворювань - https://www.kaggle.com/datasets/noamaanabdulazeem/sunflower-fruits-and-leaves-dataset
