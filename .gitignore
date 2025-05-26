@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+venv/
+.env/
+
+# Node
+node_modules/
+.expo/
+.expo-shared/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Model files
+*.pth
+*.pt
