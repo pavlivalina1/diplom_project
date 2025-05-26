@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+*.xml
+*.iml
+
+# Моделі та великі файли
+data/
+*.pth
+*.npy
+
+# Pipenv
+Pipfile.lock
